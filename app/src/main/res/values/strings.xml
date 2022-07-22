@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="region">region</string>
+    <string name="country">country</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="localtime">localtime</string>
+</resources>
