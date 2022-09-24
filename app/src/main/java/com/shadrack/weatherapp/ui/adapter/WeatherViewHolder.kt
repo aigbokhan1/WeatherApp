@@ -9,6 +9,7 @@ import com.shadrack.weatherapp.databinding.ItemsWeatherBinding
 
 class WeatherViewHolder(private val binding : ItemsWeatherBinding) :
     RecyclerView.ViewHolder(binding.root){
+
     fun bind(Item : WeatherItem){
         binding.textviewRegion.text = Item.region
         binding.textviewCountry.text = Item.country
